@@ -1,0 +1,8 @@
+Flask==2.0.2
+YoutubeTags==1.2.6
+pytube==11.0.2
+Flask-MySQLdb==0.2.0
+pyyaml==6.0
+flask-recaptcha==0.4.2
+python-whois==0.7.3
+flask_sitemap==0.4.0
