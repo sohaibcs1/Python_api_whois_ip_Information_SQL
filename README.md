@@ -3,4 +3,4 @@
 If someone obtains your IP address, they can discover a little bit about your internet service, such as which provider you use to connect to the internet, but they cannot locate you, your home, or your business.
 
 <br/>
-I build a Python API in python using this you can get the 
+<h1>I build a Python API that can gives the information of you Ip adress and save in MySQL. </h1>
