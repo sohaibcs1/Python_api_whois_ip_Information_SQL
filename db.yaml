@@ -4,9 +4,3 @@ mysql_user: 'root'
 mysql_password: ''
 mysql_db: 'check'
 
-#----------------
-# mysql_host: 'premium233.web-hosting.com'
-# mysql_user: 'solvljnn_userSolver'
-# # Enter your password in field below
-# mysql_password: '~tUHVFvrhAh1'
-# mysql_db: 'solvljnn_solverzone'
