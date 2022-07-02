@@ -6,8 +6,4 @@ If someone obtains your IP address, they can discover a little bit about your in
 <h1>I build a Python API that gives the details of your Ip address and save it in MySQL. </h1>
 
 the details contain:
-Country, Region, City.
-Longitude & Latitude: GPS
-ISP Provider
-Company and Organization Name
-Postal or ZIP code
+Country, Region, City, Longitude & Latitude, ISP Provider, Company and Organization Name, Postal or ZIP code
